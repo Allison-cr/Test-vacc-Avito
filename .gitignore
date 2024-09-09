@@ -1,0 +1,3 @@
+# Игнорировать временные файлы операционной системы
+.DS_Store
+UserInterfaceState.xcuserstate
