@@ -35,9 +35,31 @@ final class MainCoordinator: Coordinator {
     /// Configures and starts the main flow of the application.
     /// This method sets up the `MainViewModel` and `MainViewController`, and pushes the main view onto the navigation stack.
     func runMainFlow() {
-        let viewModel = SearchViewModel()
-//        viewModel.coordinator = self
+        let viewModel = SearchViewModel(coordinator: self)
         let mainViewController = SearchViewController(viewModel: viewModel)
+        navigationController.navigationBar.isHidden = true
         navigationController.pushViewController(mainViewController, animated: true)
+    }
+    
+    // MARK: Show Detail View
+    
+    func showDetail(for photo: Photo) {
+        let detailViewModel = DetailViewModel(coordinator: self)
+        let detailViewController = DetailViewController(photo: photo, viewModel: detailViewModel)
+        navigationController.pushViewController(detailViewController, animated: true)
+    }
+    
+    // MARK: Back to SearchViewController
+    
+    func popDetail() {
+        navigationController.popViewController(animated: true)
+    }
+    
+    // MARK: Show Setting View
+
+    func showSetting() {
+        let viewController = SettingViewController()
+        viewController.modalPresentationStyle = .pageSheet 
+        navigationController.present(viewController, animated: true, completion: nil)
     }
 }
