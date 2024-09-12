@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "74D7D3EB-1B3E-429C-B444-493EE93C0FF7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8087CE15-6D70-427D-8B38-F80F2D93EDB9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test-vacc-Avito/DetailScreen/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "272"
+            endingLineNumber = "272"
+            landmarkName = "setupMainLayout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A05B5E0-7BBB-4987-A695-612CE9955A8B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test-vacc-Avito/DetailScreen/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "270"
+            endingLineNumber = "270"
+            landmarkName = "setupMainLayout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4A05B5E0-7BBB-4987-A695-612CE9955A8B - 7cbb6378dc19e99c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_vacc_Avito.DetailViewController.setupMainLayout() -&gt; ()"
+                  moduleName = "Test-vacc-Avito"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandersuprun/Desktop/Test-vacc-Avito/Test-vacc-Avito/DetailScreen/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "243"
+                  endingLineNumber = "243"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "4A05B5E0-7BBB-4987-A695-612CE9955A8B - 7cbb6378dc19e9bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_vacc_Avito.DetailViewController.setupMainLayout() -&gt; ()"
+                  moduleName = "Test-vacc-Avito"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandersuprun/Desktop/Test-vacc-Avito/Test-vacc-Avito/DetailScreen/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "244"
+                  endingLineNumber = "244"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F25694BE-E57E-4BE3-A517-2A4411AC1BD9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test-vacc-Avito/DetailScreen/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "274"
+            endingLineNumber = "274"
+            landmarkName = "setupMainLayout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F25694BE-E57E-4BE3-A517-2A4411AC1BD9 - 7cbb6378dc19e920"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_vacc_Avito.DetailViewController.setupMainLayout() -&gt; ()"
+                  moduleName = "Test-vacc-Avito"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandersuprun/Desktop/Test-vacc-Avito/Test-vacc-Avito/DetailScreen/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "247"
+                  endingLineNumber = "247"
+                  offsetFromSymbolStart = "896">
+               </Location>
+               <Location
+                  uuid = "F25694BE-E57E-4BE3-A517-2A4411AC1BD9 - 7cbb6378dc19e941"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_vacc_Avito.DetailViewController.setupMainLayout() -&gt; ()"
+                  moduleName = "Test-vacc-Avito"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandersuprun/Desktop/Test-vacc-Avito/Test-vacc-Avito/DetailScreen/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "248"
+                  endingLineNumber = "248"
+                  offsetFromSymbolStart = "896">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4B26495-5906-4680-AA79-4F7A49558F71"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test-vacc-Avito/DetailScreen/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "285"
+            endingLineNumber = "285"
+            landmarkName = "setupMainLayout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E4B26495-5906-4680-AA79-4F7A49558F71 - 7cbb6378dc19ef30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_vacc_Avito.DetailViewController.setupMainLayout() -&gt; ()"
+                  moduleName = "Test-vacc-Avito"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandersuprun/Desktop/Test-vacc-Avito/Test-vacc-Avito/DetailScreen/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "263"
+                  endingLineNumber = "263"
+                  offsetFromSymbolStart = "2828">
+               </Location>
+               <Location
+                  uuid = "E4B26495-5906-4680-AA79-4F7A49558F71 - 7cbb6378dc19ef51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_vacc_Avito.DetailViewController.setupMainLayout() -&gt; ()"
+                  moduleName = "Test-vacc-Avito"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandersuprun/Desktop/Test-vacc-Avito/Test-vacc-Avito/DetailScreen/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "264"
+                  endingLineNumber = "264"
+                  offsetFromSymbolStart = "2828">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E0221CE-6EDD-4A87-9D7D-E2096B8E5BDE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test-vacc-Avito/DetailScreen/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "290"
+            endingLineNumber = "290"
+            landmarkName = "setupMainLayout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4E0221CE-6EDD-4A87-9D7D-E2096B8E5BDE - 7cbb6378dc19ecd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_vacc_Avito.DetailViewController.setupMainLayout() -&gt; ()"
+                  moduleName = "Test-vacc-Avito"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandersuprun/Desktop/Test-vacc-Avito/Test-vacc-Avito/DetailScreen/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "268"
+                  endingLineNumber = "268"
+                  offsetFromSymbolStart = "3540">
+               </Location>
+               <Location
+                  uuid = "4E0221CE-6EDD-4A87-9D7D-E2096B8E5BDE - 7cbb6378dc19ecf6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_vacc_Avito.DetailViewController.setupMainLayout() -&gt; ()"
+                  moduleName = "Test-vacc-Avito"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandersuprun/Desktop/Test-vacc-Avito/Test-vacc-Avito/DetailScreen/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "269"
+                  endingLineNumber = "269"
+                  offsetFromSymbolStart = "3540">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5B770EA-A2E2-4349-8E32-159E8B3C5357"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test-vacc-Avito/DetailScreen/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "289"
+            endingLineNumber = "289"
+            landmarkName = "setupMainLayout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
